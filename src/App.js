@@ -6,7 +6,7 @@ export default class App extends  Component{
 constructor(){
     super();
     this.state={
-        list:["one","tow","throw"]
+        list:["one","tow","throw","four","five"]
     }
 }
 handleClick(){
